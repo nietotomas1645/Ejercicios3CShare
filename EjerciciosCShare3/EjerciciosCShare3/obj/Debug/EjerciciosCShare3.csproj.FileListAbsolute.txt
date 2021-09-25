@@ -1,0 +1,7 @@
+C:\Users\Tomas\source\repos\EjerciciosCShare3\EjerciciosCShare3\bin\Debug\EjerciciosCShare3.exe.config
+C:\Users\Tomas\source\repos\EjerciciosCShare3\EjerciciosCShare3\bin\Debug\EjerciciosCShare3.exe
+C:\Users\Tomas\source\repos\EjerciciosCShare3\EjerciciosCShare3\bin\Debug\EjerciciosCShare3.pdb
+C:\Users\Tomas\source\repos\EjerciciosCShare3\EjerciciosCShare3\obj\Debug\EjerciciosCShare3.csprojAssemblyReference.cache
+C:\Users\Tomas\source\repos\EjerciciosCShare3\EjerciciosCShare3\obj\Debug\EjerciciosCShare3.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\EjerciciosCShare3\EjerciciosCShare3\obj\Debug\EjerciciosCShare3.exe
+C:\Users\Tomas\source\repos\EjerciciosCShare3\EjerciciosCShare3\obj\Debug\EjerciciosCShare3.pdb
